@@ -1,0 +1,48 @@
+<images xmlns="http://www.gutenberg.ph/2006/schemas/imageinfo">
+<image path="images/backcover-h.jpg" filesize="320425" filedate="2016-05-14 07:34:52" width="1543px" height="1752px">
+</image>
+<image path="images/backcover.jpg" filesize="63882" filedate="2016-05-14 07:34:23" width="634px" height="720px">
+</image>
+<image path="images/blank-pages-h.jpg" filesize="349548" filedate="2016-05-14 07:40:34" width="2935px" height="1775px">
+</image>
+<image path="images/blank-pages.jpg" filesize="50735" filedate="2016-05-14 07:40:06" width="1190px" height="720px">
+</image>
+<image path="images/book.png" filesize="364" filedate="2009-07-22 18:13:49" width="16px" height="16px">
+</image>
+<image path="images/card.png" filesize="249" filedate="2010-02-11 22:03:56" width="16px" height="11px">
+</image>
+<image path="images/external.png" filesize="172" filedate="2009-07-22 16:17:10" width="12px" height="12px">
+</image>
+<image path="images/frontcover-h.jpg" filesize="314812" filedate="2016-05-14 07:33:57" width="1531px" height="1748px">
+</image>
+<image path="images/frontcover.jpg" filesize="65832" filedate="2016-05-14 07:33:23" width="631px" height="720px">
+</image>
+<image path="images/p01-h.jpg" filesize="574073" filedate="2016-05-14 07:45:13" width="2934px" height="1754px">
+</image>
+<image path="images/p01.jpg" filesize="105888" filedate="2016-05-14 07:44:33" width="1204px" height="720px">
+</image>
+<image path="images/p02-03-h.jpg" filesize="689029" filedate="2016-05-14 07:49:35" width="2950px" height="1761px">
+</image>
+<image path="images/p02-03.jpg" filesize="133446" filedate="2016-05-14 07:49:00" width="1206px" height="720px">
+</image>
+<image path="images/p04-05-h.jpg" filesize="652868" filedate="2016-05-14 07:54:46" width="2952px" height="1770px">
+</image>
+<image path="images/p04-05.jpg" filesize="131823" filedate="2016-05-14 07:54:06" width="1201px" height="720px">
+</image>
+<image path="images/p06-07-h.jpg" filesize="672744" filedate="2016-05-14 08:00:28" width="2929px" height="1749px">
+</image>
+<image path="images/p06-07.jpg" filesize="139351" filedate="2016-05-14 08:00:01" width="1206px" height="720px">
+</image>
+<image path="images/p08-09-h.jpg" filesize="718937" filedate="2016-05-14 08:05:19" width="2944px" height="1761px">
+</image>
+<image path="images/p08-09.jpg" filesize="153965" filedate="2016-05-14 08:04:41" width="1204px" height="720px">
+</image>
+<image path="images/p10-11-h.jpg" filesize="690964" filedate="2016-05-14 08:10:26" width="2957px" height="1753px">
+</image>
+<image path="images/p10-11.jpg" filesize="152176" filedate="2016-05-14 08:10:00" width="1215px" height="720px">
+</image>
+<image path="images/p12-h.jpg" filesize="610086" filedate="2016-05-14 08:16:22" width="2942px" height="1752px">
+</image>
+<image path="images/p12.jpg" filesize="120237" filedate="2016-05-14 08:15:55" width="1210px" height="720px">
+</image>
+</images>

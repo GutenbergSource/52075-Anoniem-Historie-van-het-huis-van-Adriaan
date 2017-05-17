@@ -1,0 +1,283 @@
+<!DOCTYPE TEI.2 PUBLIC "-//TEI//DTD TEI Lite 1.0//EN" [
+
+<!ENTITY florin CDATA "&#x0192;" -- Florin currency symbol (Netherlands) -->
+
+]>
+<TEI.2 lang=nl>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Historie van het huis van Adriaan.</title>
+<author>Anoniem</author>
+<respStmt><resp>Transcription</resp> <name>Jeroen Hellingman</name></respStmt>
+</titleStmt>
+<publicationStmt>
+<publisher>Project Gutenberg</publisher>
+<pubPlace>Urbana, Illinois, USA.</pubPlace>
+<idno type=OLN>#####</idno>
+<idno type=OLW>#####</idno>
+<idno type=OCLC>#####</idno>
+<idno type=LibThing>#####</idno>
+<idno type=PGclearance>20160514024323anonymous</idno>
+<idno type=epub-id>urn:uuid:dcdac944-686b-4457-86ed-7f1834f80bda</idno>
+<idno type=PGnum>52075</idno>
+<date>2016-05-15</date>
+<availability lang=nl>
+<p>&availability.nl;
+
+<p>Dit eBoek is geproduceerd door Jeroen Hellingman.
+
+<p>Dit boekje is een Nederlandse bewerking van het 18e-eeuwse Engelse bakerrijm &lsquo;<foreign lang=en><xref url="https://en.wikipedia.org/wiki/This_Is_the_House_That_Jack_Built">The house that Jack built</xref></foreign>.&rsquo;
+
+<p>Van dit boekje zijn verschillende versies uitegeven. Dit is de eerste druk uit 1834. Een ander exemplaar van deze uitgave en andere uitgaves zijn te vinden bij de <xref url="http://dbnl.org/titels/titel.php?id=_his008hist02">DBNL</xref> en <xref url="http://www.geheugenvannederland.nl/?/nl/items/PRB01:197581226">Het geheugen van Nederland</xref>. 
+
+<p>Door het digitale exemplaar van de DBNL te vergelijken met dit exemplaar, is goed te zien dat de afbeeldingen met de hand zijn ingekleurd. Er zijn duidelijke verschillen in de manier waarop de afbeeldingen zijn ingekleurd.
+
+<p>Oorspronkelijke (in 1834) koste dit boekje &florin; 0,55; dit is qua koopkracht vergelijkbaar met € 5,81 in 2015.
+
+
+<!-- https://books.google.nl/books?id=JVpaAAAAcAAJ -->
+
+<p>
+
+</availability>
+</publicationStmt>
+<notesStmt>
+    <note type="Description">Prentenboek, afgeleid van het 18e-eeuwse Engelse bakerrijm &lsquo;The house that Jack built,&rsquo; waarin steeds een dier of persoon wordt toegevoegd aan het verhaal, dat begint met een rat, dan volgen de kat, de hond, de koe, de dochter van Hillegond, de haan, de vos, Filip met den hoorn, het paard en de stal. Bevat 12 bladzijden met handgekleurde gravures met een steeds uitgebreidere rijmende tekst eronder.</note>
+</notesStmt>
+<sourceDesc>
+<bibl>
+<author>Anoniem</author>
+<title>Historie van het huis van Adriaan.</title>
+<date>[1834]</date>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<encodingDesc lang=nl>
+<p>Dit boek is weergegeven in oorspronkelijke schrijfwijze. Afgebroken woorden aan het einde van de regel zijn stilzwijgend hersteld.
+
+</encodingDesc>
+<profileDesc>
+    <langUsage lang=nl>
+        <language id=nl-1800>Nederlands (Spelling Siegenbeek)</language>
+        <language id=nl>Nederlands</language>
+        <language id=en>Engels</language>
+    </langUsage>
+    <textClass>
+        <keywords>
+            <list>
+                <item>Prentenboeken</item>
+                <item>Stapelverhalen</item>
+                <item>Rijmvertellingen</item>
+                <item>Bakerrijmen</item>
+                <item>Children&apos;s poetry</item>
+                <item>Nursery rhymes</item>
+            </list>
+        </keywords>
+    </textClass>
+</profileDesc>
+<revisionDesc>
+    <list>
+        <item>2016-05-14 Begonnen.
+    </list>
+</revisionDesc>
+</teiHeader>
+<text rend="stylesheet(style/velvet.css)" lang=nl-1800>
+<front id=frontmatter>
+<div1 id=cover type=Cover>
+
+
+<p><figure id=cover-image rend="image(images/frontcover.jpg) link(images/frontcover-h.jpg)">
+<figDesc>Oorspronkelijke voorkant.</figDesc>
+</figure>
+
+
+<titlePage>
+<docTitle><titlePart>Historie
+<lb>van het huis van
+<lb>Adriaan.</titlePart>
+
+<titlePart type=sub>Eene grappige Vertelling.</titlePart>
+</docTitle>
+
+<docImprint>Te Amsterdam, bij
+<lb>Hendrik Frijlink.
+</docImprint>
+</titlePage>
+
+<pb>
+</front>
+<body>
+<div1 id=Story type=Story>
+
+
+<p><figure id=p01 rend="link(images/p01-h.jpg)"></figure>
+
+
+<p>Dit is het huis van Adriaan.
+
+
+<pb><p><figure id=p02-03 rend="link(images/p02-03-h.jpg)"></figure>
+
+
+<p>Dit is het graan, dat lag in het huis van Adriaan.
+
+<pb><p>Dit is de rat, die at van het graan, dat lag in het huis van Adriaan.
+
+
+<pb><p><figure id=p04-05 rend="link(images/p04-05-h.jpg)"></figure>
+
+
+<p>Dit is de kat, die pakte de rat, die at van het graan, dat lag in het huis van Adriaan.
+
+<pb><p>Dit is de hond, die wegjoeg de kat, die pakte de rat, die at van het graan, dat lag in het huis van Adriaan.
+
+
+<pb><p><figure id=p06-07 rend="link(images/p06-07-h.jpg)"></figure>
+
+
+<p>Dit is de koe van zeshonderd pond, die omhoog smeet den hond, die wegjoeg de kat, die pakte de rat, die at van het graan, dat lag in het huis van Adriaan.
+
+<pb><p>Dit is de dochter van Hillegond, die melkte de koe van zeshonderd pond, die omhoog smeet den hond, die wegjoeg de kat, die pakte de rat, die at van het graan, dat lag in het huis van Adriaan.
+
+
+<pb><p><figure id=p08-09 rend="link(images/p08-09-h.jpg)"></figure>
+
+<p>Dit is de haan, die in d&apos;ochtendstond kraait wakker de dochter van Hillegond, die melkte de koe van zeshonderd pond, die omhoog smeet den hond, die wegjoeg de kat, die pakte de rat, die at van het graan, dat lag in het huis van Adriaan.
+
+<pb><p>Dit is de vos die het kippenhok vond, en wegstal den haan, die in d&apos;ochtendstond kraait wakker de dochter van Hillegond, die melkte de koe van zeshonderd pond, die omhoog smeet den hond, die wegjoeg de kat, die pakte de rat, die at van het graan, dat lag in het huis van Adriaan.
+
+
+<pb><p><figure id=p10-11 rend="link(images/p10-11-h.jpg)"></figure>
+
+<p>Dit is Filip met den hoorn in zijn mond, die ving den vos, die het kippenhok vond, en wegstal den haan, die in d&apos;ochtendstond kraait wakker de dochter van Hillegond, die melkte de koe van zeshonderd pond, die omhoog smeet den hond, die wegjoeg de kat, die pakte de rat, die at van het graan, dat lag in het huis van Adriaan.
+
+<pb><p>Dit is het paard, dat zoo draaft langs den grond, en wegdroeg Filip met den hoorn in zijn mond, die ving den vos, die het kippenhok vond, en wegstal den haan, die in d&apos;ochtendstond kraait wakker de dochter van Hillegond, die melkte de koe van zeshonderd pond, die omhoog smeet den hond, die wegjoeg de kat, die pakte de rat, die at van het graan, dat lag in het huis van Adriaan.
+
+
+<pb><p><figure id=p12 rend="link(images/p12-h.jpg)"></figure>
+
+<p>Dit is de stal waar het paard in stond, dat mooi is en vlug en zoo draaft langs den grond, en wegdroeg Filip met den hoorn in zijn mond, die ving den vos, die het kippenhok vond, en wegstal den haan, die in d&apos;ochtendstond kraait wakker de dochter van Hillegond, die melkte de koe van zeshonderd pond, die omhoog smeet den hond, die wegjoeg de kat, die pakte de rat, die at van het graan, dat lag in het huis van Adriaan.
+
+
+</body>
+<back id=backmatter>
+<div1 id=back type=Cover>
+
+
+
+
+<p><figure id=backcover rend="image(images/backcover.jpg) link(images/backcover-h.jpg)">
+<figDesc>Oorspronkelijke achterkant.</figDesc>
+</figure>
+
+
+</div1>
+
+
+<divGen type=Colophon>
+
+
+</back>
+</text>
+</TEI.2>
+
+<!--
+
+CHECKLIST (X = done; / = not applicable)
+
+Initial cleanup
+
+[ ] Check all pb-tags, and join lines
+[ ] Move all footnotes in-line
+[ ] Tag headers
+[ ] Fix all [** Proofer comments]
+[ ] Start all paragraphs with the p-tag
+[ ] Change b, sc, g tags to hi tags with correct attributes.
+[ ] Change tb tags to milestone tags.
+[ ] Fix multiple spaces in a row
+[ ] Verify all paragraphs start with p-tag, also those starting with a tag.
+
+TEI header
+
+[ ] Add TEI header.
+[ ] Fill in details in TEI header
+[ ] Verify Author dates and add to TEI header.
+[ ] Document on-line scan sources.
+[ ] Fill in description in noteStmt.
+[ ] Fill in keywords / Subjects
+[ ] Add auto-generated colophon divGen tag.
+[ ] Fill in reference to LOC record (http://catalog.loc.gov/).
+[ ] Fill in reference to OpenLibrary record (http://openlibrary.org).
+[ ] Fill in reference to WorldCat record (source and work) (http://www.worldcat.org).
+[ ] Generate unique epub-id. (http://www.guidgenerator.com/)
+
+Verse
+
+[ ] Tag all verse.
+[ ] Apply proper indentation: rend="indent(2)"
+
+Lists
+
+[ ] Tag all lists.
+
+Tables
+
+[ ] Format tables
+[ ] Apply ditto-tags.
+
+Table of Contents
+
+[ ] Format table(s) of contents
+[ ] Link entries in table of contents
+[ ] Verify each link
+[ ] Compare with generated table of contents
+
+Images
+
+[ ] Include all illustrations
+[ ] Verify positioning of images makes sense.
+
+Spelling
+
+[ ] Verify generated wordlist
+[ ] Tag language usage
+
+Tools
+
+[ ] Verify Gutcheck
+[ ] Verify jeebees
+
+Miscellany
+
+[ ] Check for [Greek: ...] notation
+[ ] Curlify quotes
+[ ] Check for wrong quotes
+[ ] Disambiguate single quotes, apostrophes, and primes.
+[ ] Unwrap lines
+[ ] Check for lines not unwrapped
+[ ] Verify sequence of page-numbers
+[ ] Handle fractions, such as 1/2. ([0-9])\&ndash;([0-9])/([0-9]) becomes \1\&frac\2\3;
+[ ] Converted all fragments in uppercase to mixed case.
+
+Text Version
+
+[ ] Remove FIGURE notations
+[ ] Verify empty lines between chapter headings
+[ ] Verify empty lines around poetry and lists
+[ ] Center poetry
+[ ] Format title page
+[ ] Remove Ads
+[ ] Format Tables
+[ ] Verify Greek and other transliterations
+
+Additional Checks and Edits (Add as needed for a specific book)
+
+[ ] ....
+
+Post-Posting
+
+[ ] Update status to 1.0 (i.e. Posted).
+[ ] Include PG number and posting date in metadata
+
+-->
